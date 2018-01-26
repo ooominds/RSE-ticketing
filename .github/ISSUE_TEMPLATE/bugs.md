@@ -26,6 +26,6 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
-* Environment name and version (e.g. Chrome 39, node.js 5.4):
+* Environment name and version (e.g. Python 3.5, R 4.3):
 * Operating System and version (desktop or mobile):
 * Link to your project:
