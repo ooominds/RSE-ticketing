@@ -19,7 +19,7 @@ You get the idea...
 - Do you need specific suport using Sharc?
 Plus many more
 
-[Click here](https://github.com/ooominds/RSE-ticketing/issues/new?template=bug.md)
+[Click here](https://github.com/ooominds/RSE-ticketing/issues/new?template=bugs.md)
 
 Please try and fill the templates with the required information 📝
 Once you have done this you can tag someone to have a look at this (e.g @trallard). 
