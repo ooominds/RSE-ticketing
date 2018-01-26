@@ -1,5 +1,5 @@
 # RSE-ticketing
-Repository intended to be used as ticketing system for RSE support
+Repository for issues tracking and requests processing between the RSE and OOOMinds team.
 
 
 This will serve as the main communication channel between the RSE team and the OOOMinds team members. All of the requests/discussios will be handled via issues in this repo as opposed to email chains.
