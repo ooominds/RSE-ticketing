@@ -24,3 +24,4 @@ Plus many more
 Please try and fill the templates with the required information 📝
 Once you have done this you can tag someone to have a look at this (e.g @trallard). 
 
+You can see the progress of your ticket [here](https://github.com/ooominds/RSE-ticketing/projects/)
