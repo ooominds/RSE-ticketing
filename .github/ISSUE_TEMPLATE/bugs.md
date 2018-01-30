@@ -26,7 +26,6 @@
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-* Version used:
 * Environment name and version (e.g. Python 3.5, R 4.3):
 * Operating System and version:
 - [ ] Tick of you are using ShARC
