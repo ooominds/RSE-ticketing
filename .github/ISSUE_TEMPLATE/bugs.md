@@ -10,22 +10,25 @@
 <!--- Tell us what happens instead -->
 
 ## Possible Fix
-<!--- Not obligatory, but suggest a fix or reason for the bug -->
+<!--- Not obligatory, but suggest a fix or reason for the bug / issue-->
 
 ## Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
+<!--- reproduce this bug / issue. Include code to reproduce, if relevant -->
+<!--- Screenshots are also welcome -->
 1.
 2.
 3.
 4.
 
 ## Context
-<!--- How has this bug affected you? What were you trying to accomplish? -->
+<!--- How has this bug/issue affected you? What were you trying to accomplish? -->
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
 * Environment name and version (e.g. Python 3.5, R 4.3):
-* Operating System and version (desktop or mobile):
+* Operating System and version:
+- [ ] Tick of you are using ShARC
+* Any additional libraries or dependencies you are using (e.g. Numpy, Pandas, tidyverse)
 * Link to your project:
